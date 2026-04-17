@@ -65,13 +65,13 @@
   <br/>
 
   **Creational Patterns** — *How objects are created*
-  - Singleton, Factory Method, Abstract Factory, Builder, Prototype
+  - Singleton, Factory Method, Abstract Factory, Builder
 
   **Structural Patterns** — *How objects are composed*
-  - Adapter, Decorator, Facade, Composite, Proxy
+  - Adapter, Decorator, Facade, Composite, Proxy, Flyweight, Bridge
 
   **Behavioral Patterns** — *How objects communicate*
-  - Observer, Strategy, Command, Iterator, Template Method
+  - Observer, Strategy, Command, Iterator,Chain Of responsibility, State
 
   <br/>
 </details>
@@ -80,30 +80,14 @@
   <summary><b>🔧 Tools & Technologies</b></summary>
   <br/>
 
-  - **Languages**: C++, (mention others if applicable e.g. Python, Java)
+  - **Languages**: C++
   - **Version Control**: Git, GitHub
-  - **IDE**: VS Code, CLion
+  - **IDE**: VS Code,microsoft visual studio
   - **OS**: Linux, Windows
-  - **Concepts**: Data Structures & Algorithms, OOP, System Design (LLD)
+  - **Concepts**: Data Structures & Algorithms, OOP, System Design (LLD) ,SOLID
 
   <br/>
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadavpramod03270&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pramod's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavpramod03270&theme=tokyonight&hide_border=true" alt="Pramod's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavpramod03270&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
@@ -114,13 +98,3 @@
 - 💬 Ask me about **C++, LLD, SOLID Principles, or OOP concepts**
 - 📫 Reach me at **yadavpramod03270@gmail.com**
 - ⚡ Fun fact: I've probably refactored something today
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yadavpramod03270&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
-</p>
