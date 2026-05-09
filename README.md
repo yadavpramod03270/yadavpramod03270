@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Pramod Kumar Yadav</h1>
 
-<h3 align="center">Software Developer · C++ · Low-Level Design · SOLID Principles,MultiThreading </h3>
+<h3 align="center">Software Developer · C++ · Low-Level Design · SOLID Principles · MultiThreading </h3>
 
 <p align="center">
   ~3 years of experience building clean,Concurrent,  scalable, and maintainable systems. <br/>
