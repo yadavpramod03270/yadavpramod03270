@@ -1,10 +1,10 @@
 <h1 align="center">Hey there 👋, I'm Pramod Kumar Yadav</h1>
 
-<h3 align="center">Software Developer · C++ · Low-Level Design · SOLID Principles</h3>
+<h3 align="center">Software Developer · C++ · Low-Level Design · SOLID Principles,MultiThreading </h3>
 
 <p align="center">
-  ~3 years of experience building clean, scalable, and maintainable systems. <br/>
-  Passionate about design that makes future-me proud. 🚀
+  ~3 years of experience building clean,Concurrent,  scalable, and maintainable systems. <br/>
+  Passionate about design . 🚀
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
   <br/>
 
   - Designing scalable and maintainable class structures from real-world problems
-  - Practiced LLD problems: **Parking Lot**, **Library Management System**, **Elevator System**, **Snake & Ladder**
+  - Practiced LLD problems: **Online Shopping System**, **Food Delivery Management System**, **Splitwise System Demo**,**Car Rental System**
   - Strong grasp of object relationships: **HAS-A**, **IS-A**, composition vs inheritance
   - Comfortable creating **UML & Class Diagrams** for system design discussions
   - Focus on designing systems that are easy to extend and hard to break
@@ -51,11 +51,11 @@
   <summary><b>💻 C++ Skills</b></summary>
   <br/>
 
-  - **OOP**: Inheritance, Polymorphism, Abstraction, Encapsulation
+  - **OOP**: Inheritance, Polymorphism, Abstraction, Encapsulation,Pure Virtual Function
   - **STL**: `vector`, `map`, `set`, `unordered_map`, `priority_queue`, `stack`, `queue`
   - **Memory Management**: Raw pointers, smart pointers (`unique_ptr`, `shared_ptr`), RAII
   - **Templates & Generics**: Writing reusable, type-safe code
-  - **Modern C++**: C++11/14/17 features — `auto`, lambdas, range-based loops, move semantics
+  - **Modern C++**: C++11/14/17/20 features — `auto`, lambdas, range-based loops, move semantics,Structured Binding
 
   <br/>
 </details>
@@ -84,7 +84,7 @@
   - **Version Control**: Git, GitHub
   - **IDE**: VS Code,microsoft visual studio
   - **OS**: Linux, Windows
-  - **Concepts**: Data Structures & Algorithms, OOP, System Design (LLD) ,SOLID
+  - **Concepts**: Data Structures & Algorithms, OOP, System Design (LLD) ,SOLID,Multithreading
 
   <br/>
 </details>
